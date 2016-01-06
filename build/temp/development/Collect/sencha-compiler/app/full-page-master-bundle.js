@@ -1,2 +1,2 @@
 // @tag full-page
-// @require /Users/deanvonk/Dropbox/ExtJS/collect/app.js
+// @require /Users/deanvonk/Dropbox/ExtJS/c5/app.js

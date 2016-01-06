@@ -1,2 +1,2 @@
 Compass.add_project_configuration('../../../../../sass/config.rb')
-cache_path = '/home/vd1308/apache2/htdocs/collect/ui/build/.sass-cache'
+cache_path = '/Users/deanvonk/Dropbox/ExtJS/c5/build/.sass-cache'
